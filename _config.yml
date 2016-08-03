@@ -1,0 +1,14 @@
+layout_spectrum: 0.6720388713292778
+typography_spectrum: 0.8682548815850168
+color:
+  brandStrength: 0.5585164059884846
+  lightness: 0.033484438667073846
+  saturation: 0.758093046490103
+  rhythmicContrast: 0.32066940306685865
+  brandColors:
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+name: Beton
