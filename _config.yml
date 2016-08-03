@@ -1,4 +1,3 @@
-layout_spectrum: 0.6720388713292778
 typography_spectrum: 0.8682548815850168
 color:
   brandStrength: 0.5585164059884846
@@ -11,5 +10,7 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.6720388713292778
 name: Beton
+title: Industrias Beton
 description: Bombeo de Concreto
